@@ -1,0 +1,6 @@
+﻿  main.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\stmon\OneDrive\ドキュメント\画像\ドキュメント\ゲームプログラミング\空中に浮いているブロックの当たり判定\hit_test.h(29): warning C4804: '>': 演算中の 'bool' 型の使用方法が安全ではありません
+C:\Users\stmon\OneDrive\ドキュメント\画像\ドキュメント\ゲームプログラミング\空中に浮いているブロックの当たり判定\hit_test.h(37): warning C4804: '<': 演算中の 'bool' 型の使用方法が安全ではありません
+C:\Users\stmon\OneDrive\ドキュメント\画像\ドキュメント\ゲームプログラミング\空中に浮いているブロックの当たり判定\main.cpp(312): warning C4804: '<': 演算中の 'bool' 型の使用方法が安全ではありません
+  空中に浮いているブロックの当たり判定.vcxproj -> C:\Users\stmon\OneDrive\ドキュメント\画像\ドキュメント\ゲームプログラミング\Debug\空中に浮いているブロックの当たり判定.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\stmon\OneDrive\ドキュメント\画像\ドキュメント\ゲームプログラミング\二枚のテクスチャ貼り付け\Source.cpp(335): warning C4804: '<': 演算中の 'bool' 型の使用方法が安全ではありません
+C:\Users\stmon\OneDrive\ドキュメント\画像\ドキュメント\ゲームプログラミング\二枚のテクスチャ貼り付け\Source.cpp(422): warning C4804: '<': 演算中の 'bool' 型の使用方法が安全ではありません
+  二枚のテクスチャ貼り付け.vcxproj -> C:\Users\stmon\OneDrive\ドキュメント\画像\ドキュメント\ゲームプログラミング\Debug\二枚のテクスチャ貼り付け.exe
